@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Asbestos Lawyer 2021
+published: false
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+A mesothelioma law firm specializes in asbestos law and mesothelioma cases. Law firms can get compensation for patients and loved ones by filing a mesothelioma lawsuit, asbestos trust fund claim and other benefit claims. National mesothelioma law firms help families nationwide and will often travel to help file a claim.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
