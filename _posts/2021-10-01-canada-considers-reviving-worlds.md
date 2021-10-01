@@ -1,6 +1,6 @@
 ---
 layout: post
-title: saya sedang belajar membuat post di jekyll
+title: Canada Considers Reviving World’s Largest Asbestos Mine
 ---
 In Asbestos, Quebec, a multinational corporation has proposed a deal that would ramp up the mining and production of the material the town is named for, AOl News reports.  According to Andrew Schneider, the site’s Senior Public Health Correspondent, this is the largest asbestos mine in the world.  Balcorp Ltd., a consortium of foreign investors, is asking the Canadian government for $57 million to refurbish the underground portion of the mine, Schneider says, which could supply asbestos to developing Asian countries for the next 25 years.
 
